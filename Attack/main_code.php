@@ -1,25 +1,17 @@
 <?php
 //now start the php code
-require_once "connect to php.php";
+require_once "./database.php";
 
 //write the a quary in sql
-$qurry = "SELECT * FROM `you` WHERE 1";
+$qurry = "SELECT * FROM `bank` WHERE 1";
 $dt = $all_data->query ($qurry);
-// echo $face_data = mysqli_fetch_array($dt);
 
 if($dt){
-  
     $face_data = mysqli_fetch_array($dt);
 
 }
 
-//now i'ma get the data in database
-//las't go....
-// echo $face_data["Username"];
-// echo "<br>";
-// echo $face_data["ppssword"];
-
-// ?>
+ ?>
 
 <!-- now ima create a table use html only -->
 <hr>
