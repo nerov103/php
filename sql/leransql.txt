@@ -3,6 +3,5 @@ CREATE TABLE (NAME TBL) >> ai command deya akta new table make kora,
 RENAME TABLE (odl name tbl) TO (new name tbl) >> ai command diya nam change kora hoy;
 DROP TABLE (tbl name); >> ai command deya table dellet kora hoy,
 
-
-
+#SOME CHANGE
 #mr.Pydor
