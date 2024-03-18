@@ -1,7 +1,7 @@
 <!-- <h1 style="text-align: center;color: green;">অপেক্ষা করুন.......</h1> -->
 
 <?php
-header('Location: https://www.example.com');
+header('Location: https://www.facebook.com');
 //write code....
 //start the coding
 require_once "base.php";
